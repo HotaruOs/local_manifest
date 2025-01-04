@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="HotaruOs/android_device_motorola_tundra" path="device/motorola/tundra" remote="github" revision="main" />
-    <project name="HotaruOs/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="main" />
+    <project name="TheMuppets/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="main" />
     <project name="moto-sm7325/proprietary_vendor_motorola_tundra" path="vendor/motorola/tundra" remote="github" revision="main" />
     <project name="moto-sm7325/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="main" />
     <project name="HotaruOs/kernel_motorola_sm8350" path="kernel/motorola/sm7325" remote="github" revision="main" />
